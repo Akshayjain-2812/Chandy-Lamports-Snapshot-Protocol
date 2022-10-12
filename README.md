@@ -1,10 +1,4 @@
-# CS6378 Advanced OS
-Contains the programming assignments for the advanced os class.
-
-| Student Name | NetID |
-| :---: | :---: |
-| Kushan Singh | kxs200085 |
-| Akshay Jain | axj190052 |
+![Project Description](project1(2).pdf)
 
 # Steps to compile
 
